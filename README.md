@@ -23,19 +23,19 @@ The `setup.sh` script automates the following:
 
 ### 1. User & Group Creation
 **Users Provisioned:**
-![Users](Images/cat_etc_passwd.png)
+![Users](images/cat_etc_passwd.png)
 
 **Groups Created:**
-![Groups](Images/cat_etc_group.png)
+![Groups](images/cat_etc_group.png)
 
 ### 2. Folder Permissions
-![Permissions](Images/Folder_Permission.png)
+![Permissions](images/Folder_Permission.png)
 
 ### 3. Passwordless SSH Authentication
-![SSH Key Login](Images/Deliverable_4_SSH_Key_Login.png)
+![SSH Key Login](images/Deliverable_4_SSH_Key_Login.png)
 
 ### 4. Restricted Access Verification
-![Restricted Access](Images/Deliverable_5_Restricted_Access.png)
+![Restricted Access](images/Deliverable_5_Restricted_Access.png)
 
 ### Bonus: DevOps Deployment Folder
-![DevOps Folder](Images/Permission_stuck.png)
+![DevOps Folder](images/Permission_stuck.png)
